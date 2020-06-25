@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29409.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "stressslbl", "stressslbl\stressslbl.csproj", "{61657AA5-59C4-440D-879B-EC6C892F1386}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{61657AA5-59C4-440D-879B-EC6C892F1386}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61657AA5-59C4-440D-879B-EC6C892F1386}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61657AA5-59C4-440D-879B-EC6C892F1386}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61657AA5-59C4-440D-879B-EC6C892F1386}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {762FAA90-A973-4F8C-8A70-F5210F0F3505}
+	EndGlobalSection
+EndGlobal
